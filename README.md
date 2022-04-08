@@ -2,7 +2,7 @@
 
 ## Requirements
 - Container Platform
-  - running rickjacobo/opsmon
+  - running [rickjacobo/opsmon](https://github.com/rickjacobo/opsmon)
 - MySql Database
 
 ## Setup
