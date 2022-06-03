@@ -1,4 +1,5 @@
 # opsmon-dashboard
+A simple web dashboard for Opsmon.
 
 ## Requirements
 - Container Platform
